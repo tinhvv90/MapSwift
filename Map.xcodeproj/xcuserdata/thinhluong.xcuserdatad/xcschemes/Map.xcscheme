@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DC10351D1CC1DB7800C23BBA"
-               BuildableName = "MapSwift.app"
-               BlueprintName = "MapSwift"
-               ReferencedContainer = "container:MapSwift.xcodeproj">
+               BlueprintIdentifier = "8BBE9D321C1B36CC000E22B6"
+               BuildableName = "Map.app"
+               BlueprintName = "Map"
+               ReferencedContainer = "container:Map.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DC1035311CC1DB7800C23BBA"
-               BuildableName = "MapSwiftTests.xctest"
-               BlueprintName = "MapSwiftTests"
-               ReferencedContainer = "container:MapSwift.xcodeproj">
+               BlueprintIdentifier = "8BBE9D461C1B36CC000E22B6"
+               BuildableName = "MapTests.xctest"
+               BlueprintName = "MapTests"
+               ReferencedContainer = "container:Map.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DC10353C1CC1DB7800C23BBA"
-               BuildableName = "MapSwiftUITests.xctest"
-               BlueprintName = "MapSwiftUITests"
-               ReferencedContainer = "container:MapSwift.xcodeproj">
+               BlueprintIdentifier = "8BBE9D511C1B36CC000E22B6"
+               BuildableName = "MapUITests.xctest"
+               BlueprintName = "MapUITests"
+               ReferencedContainer = "container:Map.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DC10351D1CC1DB7800C23BBA"
-            BuildableName = "MapSwift.app"
-            BlueprintName = "MapSwift"
-            ReferencedContainer = "container:MapSwift.xcodeproj">
+            BlueprintIdentifier = "8BBE9D321C1B36CC000E22B6"
+            BuildableName = "Map.app"
+            BlueprintName = "Map"
+            ReferencedContainer = "container:Map.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DC10351D1CC1DB7800C23BBA"
-            BuildableName = "MapSwift.app"
-            BlueprintName = "MapSwift"
-            ReferencedContainer = "container:MapSwift.xcodeproj">
+            BlueprintIdentifier = "8BBE9D321C1B36CC000E22B6"
+            BuildableName = "Map.app"
+            BlueprintName = "Map"
+            ReferencedContainer = "container:Map.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DC10351D1CC1DB7800C23BBA"
-            BuildableName = "MapSwift.app"
-            BlueprintName = "MapSwift"
-            ReferencedContainer = "container:MapSwift.xcodeproj">
+            BlueprintIdentifier = "8BBE9D321C1B36CC000E22B6"
+            BuildableName = "Map.app"
+            BlueprintName = "Map"
+            ReferencedContainer = "container:Map.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

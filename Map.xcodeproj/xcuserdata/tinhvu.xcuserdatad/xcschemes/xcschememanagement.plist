@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>MapSwift.xcscheme</key>
+		<key>Map.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>DC10351D1CC1DB7800C23BBA</key>
+		<key>8BBE9D321C1B36CC000E22B6</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>DC1035311CC1DB7800C23BBA</key>
+		<key>8BBE9D461C1B36CC000E22B6</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>DC10353C1CC1DB7800C23BBA</key>
+		<key>8BBE9D511C1B36CC000E22B6</key>
 		<dict>
 			<key>primary</key>
 			<true/>
